@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+#head{
+    width: 100%;
+    background: aqua;
+    height: 100px;
+}
+#head-link{
+    width: 100%;
+    height: 35px;
+    background: cadetblue;
+}
+.left{
+    background: chartreuse;
+    float: left;
+    width: 20%;
+    height: 400px;
+}
+.content{
+    background: crimson;
+    float: left;
+    width: 60%;
+    height: 400px;
+}
+.right{
+    background: chartreuse;
+    float: left;
+    width: 20%;
+    height: 400px;
+}
+
+.footer{
+    background: deeppink;
+    height: 100px;
+    clear: both;
+}
