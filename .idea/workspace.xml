@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44d4d9c-1559-4435-b750-729c73d5ef42" name="Default Changelist" comment="" />
+    <list default="true" id="f44d4d9c-1559-4435-b750-729c73d5ef42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Module3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai1_/Tạo trang CV cá nhân.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1_/Tạo trang CV cá nhân.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai1_/Tạo trang đọc truyện ngắn.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1_/Tạo trang đọc truyện ngắn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai1_/styleCvCaNhan.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1_/styleCvCaNhan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai1_/styleTruyenNgan.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1_/styleTruyenNgan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai2_Bootstrap/Tạo layout trong Bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai2_Bootstrap/Tạo layout trong Bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai2_Bootstrap/gallaryBootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai2_Bootstrap/gallaryBootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai2_Bootstrap/styleTaoLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bai2_Bootstrap/styleTaoLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai3_Jquery/Sử dụng jquery tạo hiệu ứngAssignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai3_Jquery/Sử dụng jquery tạo hiệu ứngAssignment.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +21,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eIpLHkVNKJcUfq2jlCRG5UTDjE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +41,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,11 +58,33 @@
       <workItem from="1594018905567" duration="6485000" />
       <workItem from="1594045177421" duration="1617000" />
       <workItem from="1594078015916" duration="2202000" />
-      <workItem from="1594084789286" duration="3778000" />
+      <workItem from="1594084789286" duration="9643000" />
+      <workItem from="1594105567976" duration="1587000" />
+      <workItem from="1594115368353" duration="2268000" />
+      <workItem from="1594134003070" duration="9184000" />
+      <workItem from="1594171512252" duration="6823000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="159" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594116304891">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="427" y="159" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1594116304891" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1594181121000">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1594181121000" />
+    <state x="417" y="143" key="git4idea.merge.GitPullDialog" timestamp="1594181107764">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="417" y="143" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1594181107764" />
+    <state width="602" height="367" key="javadoc.popup" timestamp="1594093135306">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="602" height="367" key="javadoc.popup/0.0.1366.738@0.0.1366.738" timestamp="1594093135306" />
   </component>
 </project>
