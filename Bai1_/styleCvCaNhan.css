@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 .cv{
-    background: chartreuse;
     height: 500px;
     width: 60%;
     position: relative;
@@ -12,19 +11,37 @@
     top: 50px;
 }
 .information{
-    background: crimson;
+    background: darkcyan;
     height: 500px;
     width: 40%;
     left: 5%;
     position: absolute;
 }
-
+.information img{
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+.information h3{
+    margin: 10px;
+    text-align: center;
+}
 
 .ability{
-    background: blue;
+
     height: 500px;
     width: 40%;
     right: 5%;
     position: absolute;
     border: solid 2px black;
+    font-family: 'Sedgwick Ave', cursive;
 }
+
+.ability h2{
+    padding: 25px;
+    text-align: center;
+}
+.ability p{
+    margin-left: 60px;
+    padding: 5px;
+}
+
