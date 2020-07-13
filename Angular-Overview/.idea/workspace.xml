@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83479c9c-5f6c-4cc2-93c7-41e77fbd6601" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai4_Typescript/ts-folder/thuc-hanh-ham.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai4_Typescript/ts-folder/thuc-hanh-mang.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai4_Typescript/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Module3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1_/Tạo bố cục các fixed header và fixed footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1_/Tạo bố cục cơ bản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1_/Tạo trang CV cá nhân.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1_/Tạo trang đọc truyện ngắn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1_/style2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1_/styleCvCaNhan.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1_/styleTruyenNgan.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1_/thuchanh1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai2_Bootstrap/Tạo layout trong Bootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai2_Bootstrap/gallaryBootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai2_Bootstrap/styleTaoLayout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai3_Jquery/Sử dụng jquery tạo hiệu ứngAssignment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/6.Goku_SSJ_God.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/anh-sang-cuoi-con-duong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/computer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/goku-as-a-super-saiyan-credit-funimation-1512544443109-0-41-327-564-crop-1512544448041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/header-object.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/images (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/img_fjords.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/img_forest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/img_lights.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/img_mountains.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/shoppingcart.gif" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Module3\Angular-Overview\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eTik83OWrB50A6YmJrG8PyZ4fo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/@angular/cli/Angular Overview" />
+    <property name="nodejs_interpreter_path" value="node" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83479c9c-5f6c-4cc2-93c7-41e77fbd6601" name="Default Changelist" comment="" />
+      <created>1594352123433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594352123433</updated>
+      <workItem from="1594352126672" duration="183000" />
+      <workItem from="1594352373043" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

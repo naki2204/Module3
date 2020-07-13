@@ -1,0 +1,11 @@
+<input type="number" [value]="first"  (change)="firstChange($event.target.value)">
+<select [value]="operator" (change)="operatorChange($event.target.value)">
+  <option value="+">+</option>
+  <option value="-">-</option>
+  <option value="*">*</option>
+  <option value="/">/</option>
+</select>
+<input type="number" [value]="second" (change)="secondChange($event.target.value)">
+<br>
+<button (click)="calculate()">Calculate</button>
+<p>{{result}}</p>
